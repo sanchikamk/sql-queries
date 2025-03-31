@@ -1,9 +1,9 @@
-Author: Sanchika M K
+# Author: Sanchika M K
 
-📋 Overview
+# 📋 Overview
   This project demonstrates a basic E-commerce database with tables for customers, orders, and products. It includes SQL scripts for creating tables, inserting data, and running queries to manage and retrieve data effectively.
 
-🗃️ Database Structure
+# 🗃️ Database Structure
   Customers: id, name, email, address
   
   Orders: id, customer_id, order_date, total_amount
@@ -12,7 +12,7 @@ Author: Sanchika M K
   
   Order_Items: id, order_id, product_id, quantity, unit_price (for normalization)
 
-🚀 Features
+# 🚀 Features
   Create and manage tables
   
   Insert sample data
@@ -27,14 +27,14 @@ Author: Sanchika M K
   
   Calculate totals and averages
 
-⚡ How to Use
+# ⚡ How to Use
   Run the SQL scripts to create tables and insert data.
   
   Execute queries to retrieve and update data.
   
   Modify queries to fit your specific requirements.
 
-📧 Contact
+# 📧 Contact
   Author: Sanchika M K
   For questions or feedback, feel free to reach out!
 
